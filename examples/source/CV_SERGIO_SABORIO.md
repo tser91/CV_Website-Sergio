@@ -3,7 +3,6 @@
 
 > e: ssergio92@gmail.com  
 > [http://sergiosaborio.com/](http://sergiosaborio.com/)  
-> [https://github.com/tser91](https://github.com/tser91)  
 > [linkedin.com/](https://www.linkedin.com/pub/sergio-saborio-taylor/52/564/889)  
 > (+506) 8843-4928
 
@@ -13,7 +12,7 @@
 
 [Udacity](https://www.udacity.com/course/android-developer-nanodegree--nd801)
 : *Android Developer Nanodegree*
-  __2015 - Present__
+  __2015 - 2016__
 
 Instituto Tecnológico de Costa Rica (ITCR/TEC)
 : *Licentiate Computer Engineer*
@@ -26,7 +25,7 @@ Instituto Tecnológico de Costa Rica (ITCR/TEC)
 1. OS: OS X, Windows, Linux, Android, iOS
 1. Languages: Spanish, English, Portuguese (basic), German (basic)
 1. Programming: C/C++, C#, Java, Python, Assembly
-1. Embedded boards
+1. Android Application Development
 1. DB: SQL, no SQL
 1. Data Structures & Algorithms
 1. Git
@@ -44,33 +43,31 @@ Going on App
   - Developed back-end using Microsoft Azure for cloud storage, Git for version control, SQL database (personally designed), and external API services from Google Maps, Facebook and Waze.  
   - Coded for Android phones, using Eclipse IDE and Android Studio in Windows, OS X and Linux environments.  
 
-Popular Movies
-: *[https://github.com/tser91/Popular_Movies_1](https://github.com/tser91/Popular_Movies_1)*
-  __2015__
-  - Android app for phones and tablets to allow end-users to discover movies, trailers, and reviews, and share and save their favorites; Udacity Nanodegree project.  
-  - Developed both back-end and front-end; version control using Git.  
-  - Coded for Android phones and tablets using Android Studio in an OS X environment.  
-  - TheMovieDB external API used to get external movie's information.  
-  - Designed and implemented SQLite DB with content providers.  
-
-Buen Ride App
-: *[https://github.com/Alebmurillo/BuenRideApp](https://github.com/Alebmurillo/BuenRideApp)*
-  __2014 - Present__
-  - Work in progress: iOS App for iPhone that allows users to search for car pooling options in the vicinity; university project for Mobile Development course.  
-  - Developed Front-End with storyboard system of xCode in a OS X environment; version control using Git. 
+Pizuicas
+: *[https://pizuicas.com/](https://pizuicas.com/)*
+  __2015 - Present__
+- Work in progress: e-commerce site focused on original pre-designed 3d printed products.  
+- Created initial concept, website prototype using Shopify, Android app (shop endpoint) software design and implementation.  
+- Business plan development, requirements gathering, project planning for short and long term stages, using lean start up theory and agile development.  
 
 -------
 
 ### Experience {#experience}
 
-Hewlett-Packard
+Hewlett-Packard Enterprise
+: *Scrum Master*
+  __2015 - Present__
+- Leading a Scrum environment consisting of daily team work and fast problem solving for 3 teams, with 8,7 or 4 constituents.
+- Implementing Scrum framework in a tech R&D team with over 20 people. Assisting with the change process of going from a non-agile methodology to an agile one.
+- Providing assistance to the R&D team to develop soft skills regarding team interaction, time managing skills and communication.
+
 : *Software/Embedded Engineer at Networking R&D*
   __2015 - Present__
-  - Developing new features and programming tests for a networking ASIC with C/C++ language.  
-  - Implementing functionalities in an Scrum environment consisting of daily team work and fast problem solving.  
-  - Automatized Google tests along with job testing using Jenkins, to maintain code quality over time.  
+- Developing over 6 new features and programming tests for a networking ASIC with C/C++ language.
+- Designing software layer structure and interactions to handle hardware resources.
+- Automating Google tests along with job testing using open source tool Jenkins CI, to maintain code quality over a year.
 
-: *Finance Officer, Leadership Team, Pride Employee Resources Group*
+: *Vice Chair and former Finance Officer, Leadership Team, Pride ERG*
   __2014 - Present__
   - Planned quarterly budget usage for all ERG activities of the country, managing over $12000 a year.  
   - Coordinated with various business units, countries and cultures, to plan volunteer activities with over 50 participants for each event; 6 major events were planned from November 2014 to October 2015.  
