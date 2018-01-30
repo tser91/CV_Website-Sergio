@@ -3,7 +3,7 @@
 
 > e: ssergio92@gmail.com  
 > [linkedin.com/in/sergiosaborio](https://cr.linkedin.com/in/sergiosaborio)  
-> (+506) 8843-4928
+> (+31) 6 4778 1466
 
 ------
 
@@ -17,27 +17,18 @@ Instituto Tecnológico de Costa Rica (ITCR/TEC)
 
 ### Skills {#skills}
 
-1. OS X, Windows, Linux, Android, iOS
-1. Languages: Spanish, English, Portuguese (basic)
-1. Product Ownership
+1. OS X, Windows, Linux, Android
+1. Spanish, English, Portuguese (basic)
+1. Prioritization frameworks, Jira, Trello
 1. Android Application Development
-1. DB: MySQL, PostgreSQL
-1. Data Structures & Algorithms
+1. Google Analytics
+1. Data Structures, Algorithms & DB
 1. Git, Continuous Integration
-1. Agile Methodologies: Scrum, Lean
-1. Software Design
+1. Agile Methodologies
+1. A/B testing
 1. People person, works well in teams
-
-------
-
-### Projects {#projects}
-
-Pizuicas
-: *[https://pizuicas.com/](https://pizuicas.com/)*
-  __2015 - Present__
-  - Work in progress: e-commerce site focused on pre-designed 3d printed products.  
-  - Created initial concept, website prototype using Shopify and html5, mobile app (shop endpoint) software design.  
-  - Business plan development, requirements gathering, project planning for short and long term stages, using lean start up theory and agile development.  
+1. Servant leader
+1. Assertive communication 
 
 ------
 
@@ -64,6 +55,23 @@ Pizuicas
 -------
 
 ### Experience {#experience}
+
+Booking.com
+: *Junior Product Owner*
+  __2017 - Present__
+- Led an agile team constituted of 6 engineers&designers, working towards acquisition and engagement B2c app.  
+- Executed A/B testing for a B2C web, mobileweb and Android platforms to improve product conversion and app downloads.  
+- Managed App store presence, discoverability, ratings, reviews and installation rates.  
+- Prioritized team efforts using self-designed prioritization frameworks, Jira and Trello.  
+- Led brainstorming, planning, retrospective and other agile environment related sessions.  
+- Supported strategic partnership stakeholders with technical requirements for deals on a global and specific markets scale. 
+
+: *Graduate Product Owner*
+  __2017__
+- Executed A/B testing for a B2B e-commerce and a B2C search engine platforms: for web, mobileweb, tabletweb, Android and iOS.  
+- Assisted in leading two teams of designers, engineers, copywriters and data scientists.  
+- Tested solutions using Machine Learning models with A/B testing to improve product conversion.  
+- Obtained and analyzed qualitative and quantitative data, through street testing, and Google Analytics.  
 
 Hewlett-Packard Enterprise
 : *Scrum Master*
