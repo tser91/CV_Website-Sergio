@@ -34,9 +34,9 @@ Instituto Tecnológico de Costa Rica (ITCR/TEC)
 [Scrum Alliance](https://www.scrumalliance.org/)
 : *[Certified Scrum Product Owner](https://github.com/tser91/Certifications)*
   __2016__
-- Help a company clarify "The What" of a product or project.  
-- Be an interface between the stakeholders, clients and development team.  
-- Guide products to continuously improve while coaching the team as an agile leader.  
+- Helping a company clarify "The What" of a product or project.  
+- Being an interface between the stakeholders, clients and development team.  
+- Guiding products to continuously improve while coaching the team as an agile leader.  
 
 [Udacity](https://www.udacity.com)
 : *[Android Developer](https://github.com/tser91/Certifications)*
@@ -55,18 +55,18 @@ Instituto Tecnológico de Costa Rica (ITCR/TEC)
 Booking.com
 : *Junior Product Owner*
   __2017 - Present__
-- Leading an agile team constituted of 6 engineers&designers, to execute A/B testing for a B2C web and Android platforms to improve product conversion and app acquisition.  
+- Leading an agile team constituted of 6 engineers&designers, to execute +5 A/B tests per week for a B2C web and Android platforms, to improve product conversion and app acquisition.  
 - Managing App store presence, ranking, ratings, reviews and installation rates.  
-- Prioritizing team efforts using self-designed prioritization frameworks, Jira and Trello.  
+- Prioritizing product backlog using self-designed prioritization frameworks, Jira and Trello.  
 - Leading brainstorming, planning, retrospective and other agile environment related sessions.  
-- Supporting strategic stakeholders with technical requirements for deals on a global and specific markets scale. 
+- Supporting stakeholders with technical requirements for strategic deals on a global and specific markets scale. 
 
 : *Graduate Product Owner*
   __2016 - 2017__
-- Executed A/B testing for a B2B e-commerce and a B2C search engine platforms: for web and apps.  
-- Assisted in leading two teams of designers, engineers, copywriters and data scientists.  
+- Executed +40 A/B tests for a B2B e-commerce and a B2C search engine platforms: for web and apps.  
+- Assisted in leading two teams of +8 designers, engineers, copywriters and data scientists.  
 - Tested solutions using Machine Learning models to improve product conversion.  
-- Obtained and analyzed qualitative and quantitative data using Google Analytics.  
+- Analyzed quantitative data using Google Analytics and qualitative data from user research.  
 
 Hewlett-Packard Enterprise
 : *Scrum Master*
@@ -78,7 +78,7 @@ Hewlett-Packard Enterprise
 : *Software/Embedded Engineer at Networking R&D*
   __2015 - 2016__
 - Developed over 10 new features and programming tests for a networking ASIC with C/C++ language.  
-- Designedsoftware layer structure and interactions to handle hardware resources.  
+- Designed software layer structure and interactions to handle hardware resources.  
 - Automated Google tests along with job testing using open source tool Jenkins CI, to maintain code quality over two years.  
 - Maintained the health of 7 product flavors branches, and performing the corresponding periodic releases of products to internal clients.
 
@@ -86,4 +86,4 @@ Hewlett-Packard Enterprise
   __2014 - 2016__
   - Planned quarterly budget usage for all employee resource group activities of the country, managing over $12000 a year.  
   - Coordinated with various business units, countries and cultures, to plan volunteer activities with over 50 participants for each event; 9 major events were planned from November 2014 to August 2016.  
-  - Led initiatives for HPE’s support for national pro-human rights events, such as participation and co-design of float for the LGBT national parade making HPE the first enterprise in the country to participate actively; this was acomplished by coordinating an over $10,000 budget.
+  - Led initiatives for HPE’s support for national pro-human rights events, such as participation and co-design of float for the LGBT national parade making HPE the first enterprise in the country to participate actively; this was accomplished by coordinating an over $10,000 budget.
