@@ -55,14 +55,14 @@ Instituto Tecnológico de Costa Rica (ITCR/TEC)
 Booking.com
 : *Product Manager*
   __2016 - Present__
-- Leading an agile team constituted of 6 engineers&designers, to execute +5 A/B tests per week for a B2C web and Android platforms, to improve product conversion and app acquisition.  
-- Managing App store presence, ranking, ratings, reviews and installation rates.  
 - Prioritizing product backlog using self-designed prioritization frameworks, Jira and Trello.  
 - Leading brainstorming, planning, retrospective and other agile environment related sessions.  
 - Supporting stakeholders with technical requirements for strategic deals on a global and specific markets scale.  
-- Integrating Multi-Product Navigation into Booking.com guest facing apps. 
+- Integrating Multi-Product Navigation into Booking.com guest facing apps.  
+- Led A/B testing efforts for a B2C web and Android platforms, to improve product conversion and app acquisition.  
+- Managed App store presence, ranking, ratings, reviews and installation rates.  
 - Executed +100 A/B tests for a B2B e-commerce and a B2C search engine platforms: for web and apps.  
-- Assisted in leading two teams of +8 designers, engineers, copywriters and data scientists.  
+- Led three teams of +8 designers, engineers, copywriters and data scientists.  
 - Tested solutions using Machine Learning models to improve product conversion.  
 - Analyzed quantitative data using Google Analytics and qualitative data from user research.  
 
