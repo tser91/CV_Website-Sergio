@@ -18,7 +18,7 @@ Instituto Tecnológico de Costa Rica (ITCR/TEC)
 ### Skills {#skills}
 
 1. OS X, Windows, Linux, Android
-1. Spanish, English, Portuguese (basic)
+1. Spanish, English, Portuguese
 1. Prioritization frameworks, Jira, Trello
 1. Android Application Development
 1. Google Analytics
@@ -53,17 +53,15 @@ Instituto Tecnológico de Costa Rica (ITCR/TEC)
 ### Experience {#experience}
 
 Booking.com
-: *Junior Product Owner*
-  __2017 - Present__
+: *Product Manager*
+  __2016 - Present__
 - Leading an agile team constituted of 6 engineers&designers, to execute +5 A/B tests per week for a B2C web and Android platforms, to improve product conversion and app acquisition.  
 - Managing App store presence, ranking, ratings, reviews and installation rates.  
 - Prioritizing product backlog using self-designed prioritization frameworks, Jira and Trello.  
 - Leading brainstorming, planning, retrospective and other agile environment related sessions.  
-- Supporting stakeholders with technical requirements for strategic deals on a global and specific markets scale. 
-
-: *Graduate Product Owner*
-  __2016 - 2017__
-- Executed +40 A/B tests for a B2B e-commerce and a B2C search engine platforms: for web and apps.  
+- Supporting stakeholders with technical requirements for strategic deals on a global and specific markets scale.  
+- Integrating Multi-Product Navigation into Booking.com guest facing apps. 
+- Executed +100 A/B tests for a B2B e-commerce and a B2C search engine platforms: for web and apps.  
 - Assisted in leading two teams of +8 designers, engineers, copywriters and data scientists.  
 - Tested solutions using Machine Learning models to improve product conversion.  
 - Analyzed quantitative data using Google Analytics and qualitative data from user research.  
