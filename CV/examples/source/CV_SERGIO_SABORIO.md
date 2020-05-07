@@ -9,7 +9,7 @@
 
 ### Education {#education}
 
-Instituto Tecnológico de Costa Rica (ITCR/TEC)
+Instituto Tecnológico de Costa Rica (TEC)
 : *Licentiate Computer Engineer*
   __2009 - 2015__
 
@@ -20,8 +20,8 @@ Instituto Tecnológico de Costa Rica (ITCR/TEC)
 1. OS X, Windows, Linux, Android
 1. Spanish, English, Portuguese
 1. Prioritization frameworks, Jira, Trello
-1. Android Application Development
-1. Google Analytics
+1. Product Management
+1. Data Analytics and User Research
 1. Data Structures, Algorithms & DB
 1. Git, Continuous Integration
 1. Agile Methodologies
@@ -54,17 +54,21 @@ Instituto Tecnológico de Costa Rica (ITCR/TEC)
 
 Booking.com
 : *Product Manager*
-  __2016 - Present__
+  __(Graduate) 2016 - 2017, (Junior) 2017 - 2018,  2019 - Present__
+- Currently managing the redesign on the backend service and the UI/UX of the Bookings List page of Booking.com, to go from a single-product paradigm (accommodations only) to multi-product.  
+- Defining short and long term product strategy, from MVP design and validation to product scaling to a global audience.  
+- Leading multiple teams of designers, engineers, copywriters, researchers and data scientists, in a multicultural and fast pace changing environment.  
 - Prioritizing product backlog using self-designed prioritization frameworks, Jira and Trello.  
 - Leading brainstorming, planning, retrospective and other agile environment related sessions.  
-- Supporting stakeholders with technical requirements for strategic deals on a global and specific markets scale.  
-- Integrating Multi-Product Navigation into Booking.com guest facing apps.  
-- Led A/B testing efforts for a B2C web and Android platforms, to improve product conversion and app acquisition.  
+- Led the first introduction of cross selling of verticals different from accommodation into iOS and Android apps, based on learnings from user research, competitive and data collection, resulting in a 650% increase sales rate for those products.  
+- Implemented changes of navigation on the apps of B.com to shift from accommodations only to a multi product store.  
+- Integrated Multi-Product Navigation into Booking.com guest facing apps.  
 - Managed App store presence, ranking, ratings, reviews and installation rates.  
-- Executed +100 A/B tests for a B2B e-commerce and a B2C search engine platforms: for web and apps.  
-- Led three teams of +8 designers, engineers, copywriters and data scientists.  
 - Tested solutions using Machine Learning models to improve product conversion.  
 - Analyzed quantitative data using Google Analytics and qualitative data from user research.  
+- Executed +100 A/B tests for a B2B e-commerce and a B2C search engine platforms: for web and apps.  
+- Led A/B testing efforts for a B2C web and Android platforms, to improve product conversion and app acquisition.  
+
 
 Hewlett-Packard Enterprise
 : *Scrum Master*
@@ -79,9 +83,3 @@ Hewlett-Packard Enterprise
 - Designed software layer structure and interactions to handle hardware resources.  
 - Automated Google tests along with job testing using open source tool Jenkins CI, to maintain code quality over two years.  
 - Maintained the health of 7 product flavors branches, and performing the corresponding periodic releases of products to internal clients.
-
-: *Vice Chair and former Finance Officer, Leadership Team, Pride ERG*
-  __2014 - 2016__
-  - Planned quarterly budget usage for all employee resource group activities of the country, managing over $12000 a year.  
-  - Coordinated with various business units, countries and cultures, to plan volunteer activities with over 50 participants for each event; 9 major events were planned from November 2014 to August 2016.  
-  - Led initiatives for HPE’s support for national pro-human rights events, such as participation and co-design of float for the LGBT national parade making HPE the first enterprise in the country to participate actively; this was accomplished by coordinating an over $10,000 budget.
