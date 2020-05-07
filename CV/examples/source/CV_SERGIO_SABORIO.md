@@ -15,6 +15,11 @@ Instituto Tecnológico de Costa Rica (TEC)
 
 ------
 
+### About me {#profile}
+
+A servant leader hungry for new challenges, eager to encounter different perspectives, to experience the world and improve it. An anime lover, a gamer and a travel addict.
+
+------
 ### Skills {#skills}
 
 1. OS X, Windows, Linux, Android
@@ -35,8 +40,6 @@ Instituto Tecnológico de Costa Rica (TEC)
 : *[Certified Scrum Product Owner](https://github.com/tser91/Certifications)*
   __2016__
 - Helping a company clarify "The What" of a product or project.  
-- Being an interface between the stakeholders, clients and development team.  
-- Guiding products to continuously improve while coaching the team as an agile leader.  
 
 [Udacity](https://www.udacity.com)
 : *[Android Developer](https://github.com/tser91/Certifications)*
@@ -46,7 +49,6 @@ Instituto Tecnológico de Costa Rica (TEC)
 : *[Tech Entrepreneur](https://github.com/tser91/Certifications)*
   __2016__
 - Definition and validation of ideas, UI/UX research, Monetization Strategies, Marketing & Distribution Planning, and Pitch Deck Design.  
-- Building and assisting technology companies, specially mobile application businesses.  
 
 -------
 
@@ -54,20 +56,19 @@ Instituto Tecnológico de Costa Rica (TEC)
 
 Booking.com
 : *Product Manager*
-  __(Graduate) 2016 - 2017, (Junior) 2017 - 2018,  2019 - Present__
+  __2016 - Present__
 - Currently managing the redesign on the backend service and the UI/UX of the Bookings List page of Booking.com, to go from a single-product paradigm (accommodations only) to multi-product.  
 - Defining short and long term product strategy, from MVP design and validation to product scaling to a global audience.  
 - Leading multiple teams of designers, engineers, copywriters, researchers and data scientists, in a multicultural and fast pace changing environment.  
 - Prioritizing product backlog using self-designed prioritization frameworks, Jira and Trello.  
 - Leading brainstorming, planning, retrospective and other agile environment related sessions.  
 - Led the first introduction of cross selling of verticals different from accommodation into iOS and Android apps, based on learnings from user research, competitive and data collection, resulting in a 650% increase sales rate for those products.  
-- Implemented changes of navigation on the apps of B.com to shift from accommodations only to a multi product store.  
-- Integrated Multi-Product Navigation into Booking.com guest facing apps.  
-- Managed App store presence, ranking, ratings, reviews and installation rates.  
-- Tested solutions using Machine Learning models to improve product conversion.  
+- Implemented the first changes of navigation on the apps of B.com to shift from accommodations only to a multi product store.  
+- Managed App store presence, ranking, ratings, reviews and installation rates. It was one of the top Free Travel Apps on both the Play Store and the Apple store with millions of active users.  
+- Supported commercial stakeholders with technical requirements to successfully close strategic deals on a global (16M installations) scale.  
+- Tested solutions integrating more than 15 Machine Learning models to improve product conversion.  
 - Analyzed quantitative data using Google Analytics and qualitative data from user research.  
-- Executed +100 A/B tests for a B2B e-commerce and a B2C search engine platforms: for web and apps.  
-- Led A/B testing efforts for a B2C web and Android platforms, to improve product conversion and app acquisition.  
+- Executed +100 A/B tests for a B2B e-commerce and a B2C search engine platforms: for web and apps, to improve product conversion, app acquisition or decrease customer service tickets inbound.  
 
 
 Hewlett-Packard Enterprise
